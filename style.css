@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&family=Montserrat:wght@700&family=Open+Sans:wght@300;500&family=Questrial&family=Ubuntu:wght@500&display=swap');
+
+h3{
+    font-family: 'Ubuntu';
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.heading{
+    padding:70px 0;
+}
+
+img{
+    width: 75%;
+    height: 81%;
+}
+
+img,svg{
+    vertical-align: top;
+}
+
+.position{
+    writing-mode:vertical-lr;
+}
+
+.middle-element{
+    padding-top:100px;
+}
+
+p{
+    font-weight:500;
+}
+
+.footer-text{
+    color:#8f8f8f;
+}
+
+@media only screen and (max-width:767px){
+   .team-intro{
+       padding-top:50px;
+       width:80%;
+   }
+
+   .image-down{
+       padding-top:35%;
+   }
+}
+
+
+
